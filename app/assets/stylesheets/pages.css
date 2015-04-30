@@ -17,6 +17,13 @@
   text-shadow: 2px 2px 8px #F6F6F6;
 }
 
+.logo {
+  position: absolute;
+  z-index: 1;
+  margin-left: 20px;
+  margin-top: 4px;
+}
+
 .banner h3 {
   position: relative;
   top: 50%;
