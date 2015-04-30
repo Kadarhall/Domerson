@@ -45,7 +45,7 @@
 }
 
 .nav a {
-  color: #5a5a5a;
+  color: #272822;
   font-size: 11px;
   font-weight: bold;
   text-transform: uppercase;
@@ -63,7 +63,7 @@
   position: relative;
   width: 100%;
   height: 470px;
-  border-bottom: 60px solid #5a5a5a;
+  border-bottom: 60px solid #272822;
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -114,6 +114,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
   background-position: center;
   background-repeat: repeat;
   background-size: 10%;
-  border-top: 40px solid #5a5a5a;
+  border-top: 40px solid #272822;
   padding-top: 20px;
+}
+
+
+footer {
+  height: 80px;
+  width: 100%;
+  background-color: #272822;
+  color: #fff;
+  padding: 30px;
 }
