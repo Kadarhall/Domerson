@@ -6,6 +6,7 @@
 */
 
 .banner {
+/*  background-image: url('logo.png');*/
   position: relative;
 	font-family: 'Lato', sans-serif;
 /*	display: block;*/
@@ -13,7 +14,7 @@
   color: #F6F6F6;
   height: 80px;
   padding: 1px;
-    text-shadow: 2px 2px 8px #F6F6F6;
+  text-shadow: 2px 2px 8px #F6F6F6;
 }
 
 .banner h3 {
